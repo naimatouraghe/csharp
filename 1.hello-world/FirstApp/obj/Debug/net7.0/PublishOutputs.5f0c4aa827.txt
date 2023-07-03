@@ -1,0 +1,5 @@
+/home/nai/Bureau/csharp/FirstApp/bin/Debug/net7.0/publish/FirstApp
+/home/nai/Bureau/csharp/FirstApp/bin/Debug/net7.0/publish/FirstApp.dll
+/home/nai/Bureau/csharp/FirstApp/bin/Debug/net7.0/publish/FirstApp.deps.json
+/home/nai/Bureau/csharp/FirstApp/bin/Debug/net7.0/publish/FirstApp.runtimeconfig.json
+/home/nai/Bureau/csharp/FirstApp/bin/Debug/net7.0/publish/FirstApp.pdb
